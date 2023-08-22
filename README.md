@@ -1,9 +1,6 @@
 Quake Report App
 ===================================
-![1](https://user-images.githubusercontent.com/75619408/187288838-83fa15ae-5520-41ac-a337-7451567e222f.jpg)
-![2](https://user-images.githubusercontent.com/75619408/187288870-e2ed9ca0-6cb4-4916-98ad-ff9af1ac8269.jpg)
-![3](https://user-images.githubusercontent.com/75619408/187288887-9969c556-48d1-4ee5-8d82-f80dc5896ed9.jpg)
-![4](https://user-images.githubusercontent.com/75619408/187288905-35085368-b4ef-4c50-90f2-02dd7fb7878b.jpg)
+<img src="https://user-images.githubusercontent.com/75619408/187288838-83fa15ae-5520-41ac-a337-7451567e222f.jpg" alt="Image 1" width="300" /> <img src="https://user-images.githubusercontent.com/75619408/187288870-e2ed9ca0-6cb4-4916-98ad-ff9af1ac8269.jpg" alt="Image 2" width="300" /> <img src="https://user-images.githubusercontent.com/75619408/187288887-9969c556-48d1-4ee5-8d82-f80dc5896ed9.jpg" alt="Image 3" width="300" /> <img src="https://user-images.githubusercontent.com/75619408/187288905-35085368-b4ef-4c50-90f2-02dd7fb7878b.jpg" alt="Image 4" width="300" />
 
 
 
